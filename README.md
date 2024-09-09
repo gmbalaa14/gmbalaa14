@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Balagurunathan Marimuthu (he/they)** - I'm a seasoned .NET developer with over 14 years of experience in crafting robust web applications using .NET technologies. My expertise spans the full software development lifecycle, from conceptualization and design to deployment and maintenance. Passionate about leveraging cutting-edge technologies to deliver high-quality, scalable solutions.
+**I'm Balagurunathan Marimuthu (he/him)** - I'm a seasoned .NET developer with over 14 years of experience in crafting robust web applications using .NET technologies. My expertise spans the full software development lifecycle, from conceptualization and design to deployment and maintenance. Passionate about leveraging cutting-edge technologies to deliver high-quality, scalable solutions.
 
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,html,js,jquery,ts,postman,redis,rider,docker,ubuntu,vscode)](https://skillicons.dev)
