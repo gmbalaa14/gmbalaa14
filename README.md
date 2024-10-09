@@ -5,7 +5,7 @@
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,html,js,jquery,ts,postman,redis,rider,docker,ubuntu,vscode)](https://skillicons.dev)
 
-![Gmbalaa14's GitHub stats](https://github-readme-stats-gmbalaa14.vercel.app/api?username=gmbalaa14&show_icons=true&theme=tokyonight)
+![Gmbalaa14's GitHub stats](https://github-readme-stats-gmbalaa14.vercel.app/api?username=gmbalaa14&?orgs=ufours-it&show_icons=true&theme=tokyonight)
 
 ![gmbalaa14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gmbalaa14&theme=tokyonight&hide_border=false)
 
