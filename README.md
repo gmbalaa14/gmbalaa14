@@ -5,11 +5,13 @@
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,html,js,jquery,ts,postman,redis,rider,docker,ubuntu,vscode)](https://skillicons.dev)
 
-![Gmbalaa14's GitHub stats](https://github-readme-stats-gmbalaa14.vercel.app/api?username=gmbalaa14&?orgs=ufours-it&show_icons=true&theme=tokyonight)
-
-![gmbalaa14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gmbalaa14&theme=tokyonight&hide_border=false)
-
-![gmbalaa14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gmbalaa14&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+<a href="https://github.com/gmbalaa14/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-gmbalaa14.vercel.app/api?username=gmbalaa14&?orgs=ufours-it&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/gmbalaa14/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmbalaa14&?orgs=ufours-it&theme=tokyonight&hide_border=false" />
+  <!-- <img height=200 align="center" src="https://github-readme-stats-gmbalaa14.vercel.app/api/top-langs/?username=gmbalaa14&?orgs=ufours-it&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=8&card_width=320" /> -->
+</a>
 
 <!--
 **gmbalaa14/gmbalaa14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
