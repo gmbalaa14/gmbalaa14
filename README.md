@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-**I'm Balagurunathan Marimuthu (he/him)** - I'm a seasoned .NET developer with over 14 years of experience in crafting robust web applications using .NET technologies. My expertise spans the full software development lifecycle, from conceptualization and design to deployment and maintenance. Passionate about leveraging cutting-edge technologies to deliver high-quality, scalable solutions.
+**I'm Balagurunathan Marimuthu** - I design systems that scale — not just code that ships.
+
+With 18+ years in software development, I work with a software architect mindset, focusing on scalable .NET systems on Azure, clean code, and long-term maintainability.
+
+I’m currently building an Operational Technology (OT) security platform for the Energy & Power Generation domain, where architecture decisions directly impact reliability, safety, and resilience. Working in this space has reinforced a core belief of mine: simple systems outperform clever ones at scale.
+
+Over the years, I’ve designed and delivered systems across healthcare, logistics, and operational platforms, while mentoring teams and guiding architectural decisions through real-world constraints.
+
+I care deeply about clear boundaries, intentional trade-offs, clean code, and pragmatic DevOps practices—building software that teams can confidently evolves.
+
+I share thoughts on software architecture, system design, scaling .NET on Azure, and engineering decision-making.
 
 #### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,html,js,jquery,ts,angular,nodejs,postman,redis,rider,webstorm,docker,ubuntu,vscode,visualstudio,azure,kafka,rabbitmq,grafana,prometheus,mongodb,postgresql,sqlite)](https://skillicons.dev)
